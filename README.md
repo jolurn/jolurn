@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+  <img src="https://i.pinimg.com/736x/50/1d/2c/501d2c40369db576631c9c8f7b6be903.jpg" height="200"/>
 </p>
 
 <h1 align="center">Hi, I'm Jorge Luis Ramos Nolasco<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
@@ -28,4 +28,10 @@ I recently graduated from Universidad Privada del Norte. I have experience in de
     <a href="https://github.com/Bouaskaoun"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
+</p>
+
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=JoLuRN&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jolurn&theme=react&layout=compact" />
+  <a href="https://github.com/Deepshikhayadav"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jolurn&theme=dracula&hide_border=true"  width="640" alt="deepshikhayadav"/></a>
 </p>
