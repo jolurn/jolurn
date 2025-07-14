@@ -13,23 +13,24 @@
 ### Technologies
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,django,spring,firebase,postgresql,mysql,mongodb,sqlite,git,github,aws,azure,figma,wordpress,flask,tensorflow,vscode)
 
-## Latest Blog Posts
+## Recommended Reads
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px;">
 
-### 📦 [How to Create a Design System with Storybook](https://tu-blog.com/design-system-storybook)  
-[![Tech](https://skillicons.dev/icons?i=storybook,tailwind,react)](https://tu-blog.com/design-system-storybook)  
-*Step-by-step guide to build scalable UI components*  
-<sub>7 min read • ![Reactions](https://img.shields.io/badge/👍_12_💬_3-FF5722?style=flat-square)</sub>
+### 🧠 [Design Systems with Storybook](https://ejemplo.com/design-system)  
+⭐ *Por [Autor]*  
+*"Guía paso a paso para crear componentes escalables con React y Tailwind"*  
+<sub>🔗 Artículo técnico • 7 min read</sub>
 
-### ⏳ [Preparation + Consistency: My Productive Day](https://tu-blog.com/daily-routine)  
-[![Tech](https://skillicons.dev/icons?i=notion,github)](https://tu-blog.com/daily-routine)  
-*How small habits transform focus and energy*  
-<sub>5 min read • Updated last week</sub>
+### ⏳ [Productivity Method](https://ejemplo.com/productividad)  
+⭐ *Por [Autor]*  
+*"Cómo pequeños hábitos transforman tu energía y enfoque"*  
+<sub>🔗 Desarrollo personal • 5 min read</sub>
 
-### 🧠 [Stop Forgetting What You Read](https://tu-blog.com/active-reading)  
-*Master techniques to retain knowledge*  
-<sub>8 min read • Top article this month</sub>
+### 🛠️ [React Reusability Patterns](https://ejemplo.com/react-patterns)  
+⭐ *Por [Autor]*  
+*"Custom hooks, utility functions y componentes reutilizables"*  
+<sub>🔗 Patrones avanzados • 10 min read</sub>
 
 </div>
 
