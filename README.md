@@ -13,12 +13,41 @@
 ### Technologies
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,django,spring,firebase,postgresql,mysql,mongodb,sqlite,git,github,aws,azure,figma,wordpress,flask,tensorflow,vscode)
 
-## Recommended Reads
+## Cursos Recomendados
 
-### 🧠 [REST: Concepto y Fundamentos](https://www.aluracursos.com/blog/rest-concepto-y-fundamentos)  
-⭐ Por Alura
-"REST (Representational State Transfer, que significa Transferencia Representacional de Estado) es un modelo de arquitectura y no un lenguaje o tecnología de programación, que proporciona pautas para que los sistemas distribuidos se comuniquen directamente utilizando principios y protocolos web existentes sin necesidad de SOAP u otro protocolo sofisticado." 
-<sub>🔗 Artículo técnico • 7 min read</sub>
+### 🛠️ [Java: trabajando con lambdas, streams y Spring Framework](https://app.aluracursos.com/course/java-trabajando-lambdas-streams-spring-framework)
+** Utiliza el framework Spring en un proyecto de línea de comandos.
+** Realiza la deserialización de datos con la biblioteca Jackson.
+** Aplica buenas prácticas de desarrollo con funciones lambda.
+** Manipula el flujo de datos con Streams.
+** Implementa estadísticas personalizadas.
+<sub>🕒 12 horas • ![Badge](https://img.shields.io/badge/...)
+
+### 🛠️ [Spring Boot 3: desarrolla una API REST en Java](https://app.aluracursos.com/course/spring-boot-3-dessarrola-api-rest-java)
+** Crea desde cero una API Rest en Java con Spring Boot.
+** Desarrolla CRUDs utilizando la base de datos MySQL.
+** Utiliza Flyway como herramienta de migraciones de la API.
+** Realiza validaciones utilizando Bean Validation.
+** Realiza paginación de los datos de la API.
+<sub>🕒 10 horas • ![Badge](https://img.shields.io/badge/...)
+
+### 🛠️ [Spring Boot 3: aplique las mejores prácticas y proteja una API Rest](https://app.aluracursos.com/course/spring-boot-3-aplique-mejores-practicas-proteja-api-rest)
+** Estandariza los retornos de los controllers de la API.
+** Utiliza correctamente los códigos HTTP.
+** Agrega el módulo Spring Security al proyecto.
+** Implementa un mecanismo de autenticación en la API.
+** Realiza el control de acceso en la API.
+** Utiliza Json Web Token para controlar el acceso en la API.  
+<sub>🕒 12 horas • ![Badge](https://img.shields.io/badge/...)
+
+### 🛠️ [Spring Boot 3: documentar, probar y preparar una API para su implementación](https://app.aluracursos.com/course/spring-boot-3-documentar-probar-preparar-api-implementacion)
+** Aprenda a aislar el código de las reglas del negocio en una aplicación.
+** Implementar principios SOLID.
+** Documentar una API siguiendo el estándar OpenAPI.
+** Aprenda a escribir tests automatizados en una aplicación con Spring Boot.
+** Haga el build de una aplicación con Spring Boot.
+** Utilice variables de ambiente y prepare una aplicación para su deploy.
+<sub>🕒 10 horas • ![Badge](https://img.shields.io/badge/...)
 
 ### Link:
 
