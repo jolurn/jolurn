@@ -6,9 +6,6 @@
 
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
 
-<!-- Gráfico de onda de contribuciones -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jolurn&theme=github-dark&area=true&hide_border=true&custom_title=Last%20Year%20Contributions)](https://github.com/jolurn)
-
 <!-- Tarjetas automáticas -->
 [![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jolurn&theme=github_dark)](https://github.com/jolurn)
 [![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jolurn&theme=github_dark)](https://github.com/jolurn)
