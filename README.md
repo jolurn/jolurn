@@ -15,8 +15,6 @@
 
 ## Recommended Reads
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px;">
-
 ### 🧠 [Design Systems with Storybook](https://ejemplo.com/design-system)  
 ⭐ *Por [Autor]*  
 *"Guía paso a paso para crear componentes escalables con React y Tailwind"*  
@@ -31,8 +29,6 @@
 ⭐ *Por [Autor]*  
 *"Custom hooks, utility functions y componentes reutilizables"*  
 <sub>🔗 Patrones avanzados • 10 min read</sub>
-
-</div>
 
 ### Link:
 
