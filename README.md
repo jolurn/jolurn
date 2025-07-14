@@ -16,38 +16,38 @@
 ## 🎓 Cursos Alura (Spring/Java)
 
 ### 🛠️ [Java: trabajando con lambdas, streams y Spring Framework](https://app.aluracursos.com/course/java-trabajando-lambdas-streams-spring-framework)
-- Utiliza el framework Spring en un proyecto de línea de comandos.
-- Realiza la deserialización de datos con la biblioteca Jackson.
-- Aplica buenas prácticas de desarrollo con funciones lambda.
-- Manipula el flujo de datos con Streams.
-- Implementa estadísticas personalizadas.
-<sub>🕒 12 horas </sub>
+- Uses Spring Framework in command-line projects
+- Performs data deserialization with Jackson library
+- Implements development best practices using lambda functions
+- Manages data flow with Streams API
+- Develops custom statistical implementations
+<sub>🕒 12 hours </sub>
 
 ### 🛠️ [Spring Boot 3: desarrolla una API REST en Java](https://app.aluracursos.com/course/spring-boot-3-dessarrola-api-rest-java)
-- Crea desde cero una API Rest en Java con Spring Boot.
-- Desarrolla CRUDs utilizando la base de datos MySQL.
-- Utiliza Flyway como herramienta de migraciones de la API.
-- Realiza validaciones utilizando Bean Validation.
-- Realiza paginación de los datos de la API.
-<sub>🕒 10 horas </sub>
+- Develops REST APIs from scratch using Spring Boot and Java
+- Implements CRUD operations with MySQL database
+- Utilizes Flyway for database migrations
+- Performs data validation with Bean Validation
+- Implements API data pagination
+<sub>🕒 10 hours </sub>
 
 ### 🛠️ [Spring Boot 3: aplique las mejores prácticas y proteja una API Rest](https://app.aluracursos.com/course/spring-boot-3-aplique-mejores-practicas-proteja-api-rest)
-- Estandariza los retornos de los controllers de la API.
-- Utiliza correctamente los códigos HTTP.
-- Agrega el módulo Spring Security al proyecto.
-- Implementa un mecanismo de autenticación en la API.
-- Realiza el control de acceso en la API.
-- Utiliza Json Web Token para controlar el acceso en la API.  
-<sub>🕒 12 horas </sub>
+- Standardizes API controller responses
+- Implements proper HTTP status codes
+- Integrates Spring Security module
+- Configures API authentication mechanisms
+- Implements access control policies
+- Secures endpoints with JWT (JSON Web Tokens)
+<sub>🕒 12 hours </sub>
 
 ### 🛠️ [Spring Boot 3: documentar, probar y preparar una API para su implementación](https://app.aluracursos.com/course/spring-boot-3-documentar-probar-preparar-api-implementacion)
-- Aprenda a aislar el código de las reglas del negocio en una aplicación.
-- Implementar principios SOLID.
-- Documentar una API siguiendo el estándar OpenAPI.
-- Aprenda a escribir tests automatizados en una aplicación con Spring Boot.
-- Haga el build de una aplicación con Spring Boot.
-- Utilice variables de ambiente y prepare una aplicación para su deploy.
-<sub>🕒 10 horas </sub>
+- Implement separation of concerns between business logic and application code
+- Apply SOLID principles in application design
+- Document APIs using OpenAPI specification
+- Develop automated tests for Spring Boot applications
+- Build and package Spring Boot applications
+- Configure environment variables for deployment readiness
+<sub>🕒 10 hours </sub>
 
 ### Link:
 
