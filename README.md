@@ -1,17 +1,6 @@
 ## Welcome, I'm Jorge Luis Ramos Nolasco<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 ### Web Developer
-
-[![Estadísticas](https://github-readme-stats.vercel.app/api?username=jolurn&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/jolurn)
-[![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=jolurn&layout=compact&theme=radical&hide_border=true)](https://github.com/jolurn)
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
-
-<!-- Tarjetas automáticas -->
-[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jolurn&theme=github_dark)](https://github.com/jolurn)
 [![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jolurn&theme=github_dark)](https://github.com/jolurn)
-[![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jolurn&theme=github_dark)](https://github.com/jolurn)
-
-</div>
 
 ### About Me
 ⭐ **I’m passionate about** technology 🤖, programming 👨‍💻, and building impactful web applications.  
@@ -22,7 +11,20 @@
 ### Technologies
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,django,spring,firebase,postgresql,mysql,mongodb,sqlite,git,github,aws,azure,figma,wordpress,flask,tensorflow,vscode)
 
-## 🎓 Cursos Alura (Spring/Java)
+## GitHub Analytics
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
+
+<!-- Tarjetas automáticas -->
+
+[![Estadísticas](https://github-readme-stats.vercel.app/api?username=jolurn&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/jolurn)
+[![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=jolurn&layout=compact&theme=radical&hide_border=true)](https://github.com/jolurn)
+
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jolurn&theme=github_dark)](https://github.com/jolurn)
+[![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jolurn&theme=github_dark)](https://github.com/jolurn)
+
+</div>
+
+## Cursos Alura (Spring/Java)
 
 ### 🛠️ [Java: trabajando con lambdas, streams y Spring Framework](https://app.aluracursos.com/course/java-trabajando-lambdas-streams-spring-framework)
 - Uses Spring Framework in command-line projects
