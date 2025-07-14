@@ -15,20 +15,10 @@
 
 ## Recommended Reads
 
-### 🧠 [Design Systems with Storybook](https://ejemplo.com/design-system)  
-⭐ *Por [Autor]*  
-*"Guía paso a paso para crear componentes escalables con React y Tailwind"*  
+### 🧠 [REST: Concepto y Fundamentos](https://www.aluracursos.com/blog/rest-concepto-y-fundamentos)  
+⭐ Por Alura
+"REST (Representational State Transfer, que significa Transferencia Representacional de Estado) es un modelo de arquitectura y no un lenguaje o tecnología de programación, que proporciona pautas para que los sistemas distribuidos se comuniquen directamente utilizando principios y protocolos web existentes sin necesidad de SOAP u otro protocolo sofisticado." 
 <sub>🔗 Artículo técnico • 7 min read</sub>
-
-### ⏳ [Productivity Method](https://ejemplo.com/productividad)  
-⭐ *Por [Autor]*  
-*"Cómo pequeños hábitos transforman tu energía y enfoque"*  
-<sub>🔗 Desarrollo personal • 5 min read</sub>
-
-### 🛠️ [React Reusability Patterns](https://ejemplo.com/react-patterns)  
-⭐ *Por [Autor]*  
-*"Custom hooks, utility functions y componentes reutilizables"*  
-<sub>🔗 Patrones avanzados • 10 min read</sub>
 
 ### Link:
 
