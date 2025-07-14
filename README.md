@@ -23,16 +23,24 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](jolurn7@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 
-## 📌 Pinned Repositories
+## Pinned Repositories
 
-<div align="center">
-  
-| Repo | Description | Tech Stack |
-|------|-------------|------------|
-| **[prueba-tecnica-javascript](https://github.com/jolurn/prueba-tecnica-javascript-senior-fintech)** | Forked technical test for FinTech position | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| **[pokedex-with-go](https://github.com/jolurn/pokedex-with-go)** | CU application interacting with PokéAPI | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) |
-| **[minimalist-resume](https://github.com/jolurn/minimalist-resume)** | Printable resume generator with Astro | ![Astro](https://img.shields.io/badge/-Astro-FF5D01?logo=astro&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white) |
-| **[next-auth-lucia-template](https://github.com/jolurn/next-auth-lucia-drizzle-template)** | NextJS auth boilerplate | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; margin: 20px 0;">
+
+### 🔧 [prueba-tecnica-javascript-senior-fintech](https://github.com/jolurn/prueba-tecnica-javascript-senior-fintech)
+[![Tech](https://skillicons.dev/icons?i=js,jest,node)](https://github.com/jolurn/prueba-tecnica-javascript-senior-fintech)  
+*Solución para prueba técnica JavaScript (FinTech)*  
+<sub>Forked from girodasz • ![Stars](https://img.shields.io/github/stars/jolurn/prueba-tecnica-javascript-senior-fintech?style=flat-square)</sub>
+
+### 🎮 [pokedex-with-go](https://github.com/jolurn/pokedex-with-go)
+[![Tech](https://skillicons.dev/icons?i=go,postgres,aws)](https://github.com/jolurn/pokedex-with-go)  
+*Aplicación que consume la API de Pokémon*  
+<sub>Go • PostgreSQL • ![Last Commit](https://img.shields.io/github/last-commit/jolurn/pokedex-with-go?style=flat-square)</sub>
+
+### 📝 [minimalist-resume](https://github.com/jolurn/minimalist-resume)
+[![Tech](https://skillicons.dev/icons?i=astro,tailwind,vercel)](https://github.com/jolurn/minimalist-resume)  
+*Generador de CV imprimible con Astro*  
+<sub>Inspirado por midudev • ![Issues](https://img.shields.io/github/issues/jolurn/minimalist-resume?style=flat-square)</sub>
 
 </div>
 
