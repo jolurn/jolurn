@@ -15,39 +15,39 @@
 
 ## 🎓 Cursos Alura (Spring/Java)
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
+### 🛠️ [Java: trabajando con lambdas, streams y Spring Framework](https://app.aluracursos.com/course/java-trabajando-lambdas-streams-spring-framework)
+- Utiliza el framework Spring en un proyecto de línea de comandos.
+- Realiza la deserialización de datos con la biblioteca Jackson.
+- Aplica buenas prácticas de desarrollo con funciones lambda.
+- Manipula el flujo de datos con Streams.
+- Implementa estadísticas personalizadas.
+<sub>🕒 12 horas • ![Badge](https://media.licdn.com/dms/image/v2/D4E22AQHFLMxEAuy3wA/feedshare-shrink_1280/B4EZbh.7B5HAAo-/0/1747548091313?e=1755129600&v=beta&t=E-y63tIpBbwBzPjExzO9nORiqweV7oipRvWvHbsEdZQ)
 
-### 🛠️ [Java: Lambdas, Streams y Spring](https://app.aluracursos.com/course/java-trabajando-lambdas-streams-spring-framework)
-- Spring Framework en proyectos CLI
-- Deserialización con Jackson
-- Buenas prácticas con Lambdas
-- Manipulación de Streams
-- Estadísticas personalizadas
-<sub>🕒 12h • <img src="https://media.licdn.com/dms/image/D4E22AQHFLMxEAuy3wA/feedshare-shrink_1280/0/1747548091313?e=1755129600&v=beta&t=E-y63tIpBbwBzPjExzO9nORiqweV7oipRvWvHbsEdZQ" width="80"></sub>
+### 🛠️ [Spring Boot 3: desarrolla una API REST en Java](https://app.aluracursos.com/course/spring-boot-3-dessarrola-api-rest-java)
+- Crea desde cero una API Rest en Java con Spring Boot.
+- Desarrolla CRUDs utilizando la base de datos MySQL.
+- Utiliza Flyway como herramienta de migraciones de la API.
+- Realiza validaciones utilizando Bean Validation.
+- Realiza paginación de los datos de la API.
+<sub>🕒 10 horas • ![Badge](https://media.licdn.com/dms/image/v2/D4E22AQEckqAXjv7hvw/feedshare-shrink_2048_1536/B4EZfgSptAGwAo-/0/1751814676106?e=1755129600&v=beta&t=wpfZiBQBOUWXDNIs89hwAH8k84A_f-DmrOP42Bu0oW8)
 
-### 🛠️ [Spring Boot 3: API REST](https://app.aluracursos.com/course/spring-boot-3-dessarrola-api-rest-java)
-- Creación de API desde cero
-- CRUDs con MySQL
-- Migraciones con Flyway
-- Validaciones con Bean Validation
-- Paginación de datos
-<sub>🕒 10h • <img src="https://media.licdn.com/dms/image/D4E22AQEckqAXjv7hvw/feedshare-shrink_1280/0/1751814676106?e=1755129600&v=beta&t=wpfZiBQBOUWXDNIs89hwAH8k84A_f-DmrOP42Bu0oW8" width="80"></sub>
+### 🛠️ [Spring Boot 3: aplique las mejores prácticas y proteja una API Rest](https://app.aluracursos.com/course/spring-boot-3-aplique-mejores-practicas-proteja-api-rest)
+- Estandariza los retornos de los controllers de la API.
+- Utiliza correctamente los códigos HTTP.
+- Agrega el módulo Spring Security al proyecto.
+- Implementa un mecanismo de autenticación en la API.
+- Realiza el control de acceso en la API.
+- Utiliza Json Web Token para controlar el acceso en la API.  
+<sub>🕒 12 horas • ![Badge](https://media.licdn.com/dms/image/v2/D4E22AQHbnHKPp8ldRA/feedshare-shrink_2048_1536/B4EZfjIuZ1HYAo-/0/1751862405485?e=1755129600&v=beta&t=B6pmOt1ZmOWIAG7E3MSvTiJGrjUZpRKQXEFPkvYmyv8)
 
-### 🛠️ [Spring Boot 3: Seguridad](https://app.aluracursos.com/course/spring-boot-3-aplique-mejores-practicas-proteja-api-rest)
-- Estandarización de controllers
-- Spring Security + JWT
-- Códigos HTTP correctos
-- Control de acceso
-<sub>🕒 12h • <img src="https://media.licdn.com/dms/image/D4E22AQHbnHKPp8ldRA/feedshare-shrink_1280/0/1751862405485?e=1755129600&v=beta&t=B6pmOt1ZmOWIAG7E3MSvTiJGrjUZpRKQXEFPkvYmyv8" width="80"></sub>
-
-### 🛠️ [Spring Boot 3: Testing](https://app.aluracursos.com/course/spring-boot-3-documentar-probar-preparar-api-implementacion)
-- Principios SOLID
-- Documentación OpenAPI
-- Tests automatizados
-- Prepación para deploy
-<sub>🕒 10h • <img src="https://media.licdn.com/dms/image/D4E22AQHO5sUC8lDZ9w/feedshare-shrink_1280/0/1752465042326?e=1755129600&v=beta&t=c2XnIUKK_Miy8KhmR8Themz_e3ck69pILnHj2LPo8fI" width="80"></sub>
-
-</div>
+### 🛠️ [Spring Boot 3: documentar, probar y preparar una API para su implementación](https://app.aluracursos.com/course/spring-boot-3-documentar-probar-preparar-api-implementacion)
+- Aprenda a aislar el código de las reglas del negocio en una aplicación.
+- Implementar principios SOLID.
+- Documentar una API siguiendo el estándar OpenAPI.
+- Aprenda a escribir tests automatizados en una aplicación con Spring Boot.
+- Haga el build de una aplicación con Spring Boot.
+- Utilice variables de ambiente y prepare una aplicación para su deploy.
+<sub>🕒 10 horas • ![Badge](https://media.licdn.com/dms/image/v2/D4E22AQHO5sUC8lDZ9w/feedshare-shrink_1280/B4EZgHDmiKHEAk-/0/1752465042326?e=1755129600&v=beta&t=c2XnIUKK_Miy8KhmR8Themz_e3ck69pILnHj2LPo8fI)
 
 ### Link:
 
