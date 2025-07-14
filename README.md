@@ -1,7 +1,8 @@
-<h1>Welcome, I'm Jorge Luis Ramos Nolasco<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+## Welcome, I'm Jorge Luis Ramos Nolasco<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 ### Web Developer
-[![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/jolurn)
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=radical&hide_border=true)](https://github.com/jolurn)
+
+[![Estadísticas](https://github-readme-stats.vercel.app/api?username=jolurn&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/jolurn)
+[![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=jolurn&layout=compact&theme=radical&hide_border=true)](https://github.com/jolurn)
 
 ### About Me
 ⭐ **I’m passionate about** technology 🤖, programming 👨‍💻, and building impactful web applications.  
