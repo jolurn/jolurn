@@ -1,6 +1,6 @@
 ## Welcome, I'm Jorge Luis Ramos Nolasco<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 ### Web Developer
-[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jolurn&theme=github_dark)](https://github.com/jolurn)
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jolurn&theme=github_dark)](https://github.com/jolurn)
 
 ### About Me
 ⭐ **I’m passionate about** technology 🤖, programming 👨‍💻, and building impactful web applications.  
@@ -19,7 +19,8 @@
 [![Estadísticas](https://github-readme-stats.vercel.app/api?username=jolurn&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/jolurn)
 [![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=jolurn&layout=compact&theme=radical&hide_border=true)](https://github.com/jolurn)
 
-[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jolurn&theme=github_dark)](https://github.com/jolurn)
+
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jolurn&theme=github_dark)](https://github.com/jolurn)
 [![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jolurn&theme=github_dark)](https://github.com/jolurn)
 
 </div>
