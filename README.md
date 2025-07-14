@@ -1,4 +1,7 @@
-<h1 align="center">Welcome, I'm Jorge Luis Ramos Nolasco<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h1>Welcome, I'm Jorge Luis Ramos Nolasco<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+### Web Developer
+[![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/jolurn)
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=radical&hide_border=true)](https://github.com/jolurn)
 
 ### About Me
 ⭐ **I’m passionate about** technology 🤖, programming 👨‍💻, and building impactful web applications.  
@@ -7,21 +10,14 @@
 🤝 **Team player**: Love collaborating, mentoring, and creating together.  
 
 ### Technologies
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![AI](https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,django,spring,firebase,postgresql,mysql,mongodb,sqlite,git,github,aws,azure,figma,wordpress,flask,tensorflow,vscode)
 
 ### Link:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jramosn/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jolurn)
 
 ### Contact:
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](jolurn7@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
