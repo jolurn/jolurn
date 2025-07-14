@@ -4,6 +4,13 @@
 [![Estadísticas](https://github-readme-stats.vercel.app/api?username=jolurn&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/jolurn)
 [![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=jolurn&layout=compact&theme=radical&hide_border=true)](https://github.com/jolurn)
 
+<div align="center">
+  
+[![Jorge's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jolurn&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/jolurn)
+[![Wave Graph](https://github-readme-activity-graph.vercel.app/graph?username=jolurn&theme=github-dark&area=true&hide_border=true&custom_title=My%20Contribution%20Wave)](https://github.com/jolurn)
+
+</div>
+
 ### About Me
 ⭐ **I’m passionate about** technology 🤖, programming 👨‍💻, and building impactful web applications.  
 🌿 **Personal mantra**: Grow 1% better every day—mind, code, and habits.  
