@@ -21,7 +21,7 @@
 - Aplica buenas prácticas de desarrollo con funciones lambda.
 - Manipula el flujo de datos con Streams.
 - Implementa estadísticas personalizadas.
-<sub>🕒 12 horas • ![Badge](https://media.licdn.com/dms/image/v2/D4E22AQHFLMxEAuy3wA/feedshare-shrink_1280/B4EZbh.7B5HAAo-/0/1747548091313?e=1755129600&v=beta&t=E-y63tIpBbwBzPjExzO9nORiqweV7oipRvWvHbsEdZQ)</sub>
+<sub>🕒 12 horas </sub>
 
 ### 🛠️ [Spring Boot 3: desarrolla una API REST en Java](https://app.aluracursos.com/course/spring-boot-3-dessarrola-api-rest-java)
 - Crea desde cero una API Rest en Java con Spring Boot.
@@ -29,7 +29,7 @@
 - Utiliza Flyway como herramienta de migraciones de la API.
 - Realiza validaciones utilizando Bean Validation.
 - Realiza paginación de los datos de la API.
-<sub>🕒 10 horas • ![Badge](https://media.licdn.com/dms/image/v2/D4E22AQEckqAXjv7hvw/feedshare-shrink_2048_1536/B4EZfgSptAGwAo-/0/1751814676106?e=1755129600&v=beta&t=wpfZiBQBOUWXDNIs89hwAH8k84A_f-DmrOP42Bu0oW8)</sub>
+<sub>🕒 10 horas </sub>
 
 ### 🛠️ [Spring Boot 3: aplique las mejores prácticas y proteja una API Rest](https://app.aluracursos.com/course/spring-boot-3-aplique-mejores-practicas-proteja-api-rest)
 - Estandariza los retornos de los controllers de la API.
@@ -38,7 +38,7 @@
 - Implementa un mecanismo de autenticación en la API.
 - Realiza el control de acceso en la API.
 - Utiliza Json Web Token para controlar el acceso en la API.  
-<sub>🕒 12 horas • ![Badge](https://media.licdn.com/dms/image/v2/D4E22AQHbnHKPp8ldRA/feedshare-shrink_2048_1536/B4EZfjIuZ1HYAo-/0/1751862405485?e=1755129600&v=beta&t=B6pmOt1ZmOWIAG7E3MSvTiJGrjUZpRKQXEFPkvYmyv8)</sub>
+<sub>🕒 12 horas </sub>
 
 ### 🛠️ [Spring Boot 3: documentar, probar y preparar una API para su implementación](https://app.aluracursos.com/course/spring-boot-3-documentar-probar-preparar-api-implementacion)
 - Aprenda a aislar el código de las reglas del negocio en una aplicación.
@@ -47,9 +47,8 @@
 - Aprenda a escribir tests automatizados en una aplicación con Spring Boot.
 - Haga el build de una aplicación con Spring Boot.
 - Utilice variables de ambiente y prepare una aplicación para su deploy.
-<sub>🕒 10 horas • ![Badge](https://media.licdn.com/dms/image/v2/D4E22AQHO5sUC8lDZ9w/feedshare-shrink_1280/B4EZgHDmiKHEAk-/0/1752465042326?e=1755129600&v=beta&t=c2XnIUKK_Miy8KhmR8Themz_e3ck69pILnHj2LPo8fI)</sub>
+<sub>🕒 10 horas </sub>
 
-<img src="https://media.licdn.com/dms/image/D4E22AQEckqAXjv7hvw/feedshare-shrink_2048_1536/0/1751814676106?e=1755129600&v=beta&t=wpfZiBQBOUWXDNIs89hwAH8k84A_f-DmrOP42Bu0oW8" width="80" height="80"></sub>
 ### Link:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jramosn/)
