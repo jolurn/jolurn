@@ -39,15 +39,13 @@
 
 ## 📊 **GitHub Stats**
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jolurn&show_icons=true&theme=dark#gh-dark-mode-only)
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jolurn&show_icons=true&theme=light#gh-light-mode-only)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jolurn&show_icons=true&theme=dark)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jolurn&layout=compact&theme=dark#gh-dark-mode-only)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jolurn&layout=compact&theme=light#gh-light-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jolurn&layout=compact&theme=dark)
 
 ---
 
-## 🎯 **Resumen rápido**
+## 📈 **Resumen rápido**
 
 | Ítem | Cantidad |
 |------|----------|
