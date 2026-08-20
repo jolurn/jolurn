@@ -40,6 +40,11 @@
 ## 📊 **GitHub Stats**
 
 <div align="center">
+  <div align="center">
+    <a href="https://github.com/jolurn/github-stats">
+      <img src="https://github.com/jolurn/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
+    </a>
+  </div>
   <!-- Lenguajes en modo oscuro -->
   <picture>
     <source 
@@ -54,15 +59,7 @@
   </picture>
 </div>
 
----
 
-## 📈 **Resumen rápido**
-
-| Ítem | Cantidad |
-|------|----------|
-| Repositorios | 5 |
-| Seguidores | 0 |
-| Estrellas | 0 |
 
 ---
 
