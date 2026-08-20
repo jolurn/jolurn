@@ -39,9 +39,14 @@
 
 ## 📊 **GitHub Stats**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jolurn&show_icons=true&theme=default)
+📁 **Repositorios:** 5  
+👥 **Seguidores:** 0  
+⭐ **Estrellas:** 0  
+💻 **Lenguajes:** C#, JavaScript, HTML
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jolurn&layout=compact&theme=default)
+[![GitHub followers](https://img.shields.io/github/followers/jolurn?style=social)](https://github.com/jolurn)
+[![GitHub stars](https://img.shields.io/github/stars/jolurn?style=social)](https://github.com/jolurn)
+[![GitHub repos](https://img.shields.io/badge/Repos-5-blue)](https://github.com/jolurn)
 
 ---
 
