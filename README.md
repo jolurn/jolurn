@@ -39,14 +39,11 @@
 
 ## 📊 **GitHub Stats**
 
-📁 **Repositorios:** 5  
-👥 **Seguidores:** 0  
-⭐ **Estrellas:** 0  
-💻 **Lenguajes:** C#, JavaScript, HTML
-
-[![GitHub followers](https://img.shields.io/github/followers/jolurn?style=social)](https://github.com/jolurn)
-[![GitHub stars](https://img.shields.io/github/stars/jolurn?style=social)](https://github.com/jolurn)
-[![GitHub repos](https://img.shields.io/badge/Repos-5-blue)](https://github.com/jolurn)
+<div align="center">
+<a href="https://github.com/jstrieb/github-stats">
+<img src="https://github.com/jstrieb/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
+</a>
+</div>
 
 ---
 
