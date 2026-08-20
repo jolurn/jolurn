@@ -37,12 +37,24 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 **GitHub Stats**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jolurn&show_icons=true&theme=dark)
-[![GitHub followers](https://img.shields.io/github/followers/jolurn?style=social)](https://github.com/jolurn)
-[![GitHub stars](https://img.shields.io/github/stars/jolurn?style=social)](https://github.com/jolurn)
-[![GitHub repos](https://img.shields.io/badge/Repos-5-blue)](https://github.com/jolurn)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jolurn&show_icons=true&theme=dark#gh-dark-mode-only)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jolurn&show_icons=true&theme=light#gh-light-mode-only)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jolurn&layout=compact&theme=dark#gh-dark-mode-only)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jolurn&layout=compact&theme=light#gh-light-mode-only)
+
+---
+
+## 🎯 **Resumen rápido**
+
+| Ítem | Cantidad |
+|------|----------|
+| Repositorios | 5 |
+| Seguidores | 0 |
+| Estrellas | 0 |
+
 ---
 
 ## 📫 Let's Connect | Conectemos
