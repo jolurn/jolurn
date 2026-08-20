@@ -44,8 +44,7 @@
     <a href="https://github.com/jolurn/github-stats">
       <img src="https://github.com/jolurn/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
     </a>
-  </div>
-  <!-- Lenguajes en modo oscuro -->
+    <!-- Lenguajes en modo oscuro -->
   <picture>
     <source 
       srcset="https://github.com/jolurn/github-stats/blob/generated/languages.svg#gh-dark-mode-only" 
@@ -57,6 +56,8 @@
     />
     <img src="https://github.com/jolurn/github-stats/blob/generated/languages.svg" />
   </picture>
+  </div>
+  
 </div>
 
 
