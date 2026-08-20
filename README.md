@@ -40,18 +40,9 @@
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <!-- Lenguajes en modo oscuro -->
-  <picture>
-    <source 
-      srcset="https://github.com/jolurn/github-stats/blob/generated/languages.svg#gh-dark-mode-only" 
-      media="(prefers-color-scheme: dark)" 
-    />
-    <source 
-      srcset="https://github.com/jolurn/github-stats/blob/generated/languages.svg#gh-light-mode-only" 
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
-    />
-    <img src="https://github.com/jolurn/github-stats/blob/generated/languages.svg" />
-  </picture>
+  <a href="https://github.com/jolurn/github-stats">
+    <img src="https://github.com/jolurn/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
+  </a>
 </div>
 
 ---
