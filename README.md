@@ -39,8 +39,10 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=jolurn&show_icons=true&theme=dark)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jolurn&show_icons=true&theme=dark)
+[![GitHub followers](https://img.shields.io/github/followers/jolurn?style=social)](https://github.com/jolurn)
+[![GitHub stars](https://img.shields.io/github/stars/jolurn?style=social)](https://github.com/jolurn)
+[![GitHub repos](https://img.shields.io/badge/Repos-5-blue)](https://github.com/jolurn)
 ---
 
 ## 📫 Let's Connect | Conectemos
