@@ -39,9 +39,9 @@
 
 ## 📊 **GitHub Stats**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jolurn&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jolurn&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jolurn&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jolurn&layout=compact&theme=default)
 
 ---
 
