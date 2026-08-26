@@ -35,14 +35,6 @@
 
 - ✅ .NET 8.0 | Entity Framework | SQL Server | Swagger
 
----
-
-## 📊 **GitHub Stats**
-
-
-
----
-
 ## 📫 Let's Connect | Conectemos
 
 🇬🇧 [GitHub](https://github.com/jolurn) | [LinkedIn](https://www.linkedin.com/in/jramosn/) | [Email](jramosn@uni.edu.pe)  
